@@ -1,3 +1,10 @@
-Early Performance Evaluation for Collision Prevention based on a Domain Specific Language;Freek van den Berg, Anne Remke, Arjan Mooij, Boudewijn Haverkort;early_perf_evaluation;other
-A Domain Specific Language & Toolset for Requirements Analysis of Safety-Critical Cyber-Physical Systems;Freek van den Berg, Boudewijn R Haverkort;Requirements_elicitation;adsl
-Evaluating load balancing policies for performance and energy-efficiency;Freek van den Berg, Björn F Postema, Boudewijn R Haverkort;eval_load_balancer;idsl
+name;authors;filename;source;category
+Early Performance Evaluation for Collision Prevention based on a Domain Specific Language;Freek van den Berg, Anne Remke, Arjan Mooij, Boudewijn Haverkort;early_perf_evaluation;arXiv preprint arXiv:1610.08172;other
+A Domain Specific Language & Toolset for Requirements Analysis of Safety-Critical Cyber-Physical Systems;Freek van den Berg, Boudewijn R Haverkort;Requirements_elicitation; ;adsl
+Evaluating load balancing policies for performance and energy-efficiency;Freek van den Berg, Björn F Postema, Boudewijn R Haverkort;eval_load_balancer; ;idsl
+Designing Cyber-Physical Systems with aDSL: a Domain-Specific Language and Toolchain;F van den Berg, B Tekinerdogan, V Garousi, B Haverkort;ictopen_adsl;ICT open 2018;adsl
+Model-driven quality and resource management for CPSs;Freek van den Berg, Marc CW Geilen, AA Twan Basten;ictopen2020qrml;ICT. OPEN 2020;other
+Strongly typed BPMN;Freek van den Berg;strongly_typed_bpmn;Master thesis Information Science;thesis
+Evaluating the Performance of Business processes using iDSL;Freek van den Berg;fvdb_master_thesis;Master thesis Computing Science;thesis
+Creating a meta model describing a production system's concepts and their relations;Freek van den Berg;bachelor_thesis;Bachelor thesis Information Science;thesis
+Automated Performance Evaluation of Service-Oriented Systems;Freek van den Berg;thesis_F_van_den_Berg;PhD thesis Performance Evaluation;thesis
